@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
-  * puts - prints one character out of two
-  * @str: input
-  * Return: print
+  * puts - prints a string followed by a new line
+  * @str: pointer to the string to print
+  * Return: void
   */
 void puts2(char *str)
 {
